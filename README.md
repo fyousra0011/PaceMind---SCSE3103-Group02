@@ -36,9 +36,9 @@ University students frequently face overlapping deadlines, irregular sleep sched
 | Member Name | Matric No. | Primary Role | Key Responsibilities |
 | :--- | :--- | :--- | :--- |
 | **[FATIMA YOUSRA]** | `A24CS0011` | **Project Management & Architecture** | Timeline governance, GitHub workflow, system integration, and report compilation |
-| **[Member 2 Name]** | `A2XECXXXX` | **Knowledge & Fuzzy Engineering** | Membership functions (MQA/sleep anchors), Mamdani controller, and sensitivity analysis |
-| **[Member 3 Name]** | `A2XECXXXX` | **Rule Engine & UI Implementation** | YAML production rules, Streamlit dashboard, Matplotlib plots, and input validation |
-| **[Member 4 Name]** | `A2XECXXXX` | **Testing, Evaluation & Ethics** | Synthetic profiles (40+ cases), crisp-baseline comparison (`pytest`), and Responsible AI checks |
+| **ZENG YUXI** | `A24CS4041` | **Knowledge & Fuzzy Engineering** | Membership functions (MQA/sleep anchors), Mamdani controller, and sensitivity analysis |
+| **FARAH MAGED ABDELKARIM** | `A24CS0010` | **Rule Engine & UI Implementation** | YAML production rules, Streamlit dashboard, Matplotlib plots, and input validation |
+| **WANG XINJU** | `X26EC0013` | **Testing, Evaluation & Ethics** | Synthetic profiles (40+ cases), crisp-baseline comparison (`pytest`), and Responsible AI checks |
 
 ---
 
